@@ -1,5 +1,5 @@
 # Xogene-React-Assesment-CDAC
-Xogene-FrontEnd-Test
+##Xogene-FrontEnd-Test
 Before you Start, ensure you have Node.js and npm  installed on your system.
 
 Download Node.js and npm
@@ -22,7 +22,7 @@ cd drup-app
 3. Install Dependencies
 Install the required dependencies using npm:
 
-npm install
-npm axios
+`npm install`
+`npm axios`
 Running the application
-npm start
+`npm start`
