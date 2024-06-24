@@ -1,9 +1,11 @@
 # Xogene-React-Assesment-CDAC
-##Xogene-FrontEnd-Test
+Xogene-FrontEnd-Test
 Before you Start, ensure you have Node.js and npm  installed on your system.
 
 [Download Node.js and npm]
+
 Installation
+
 Follow these steps to set up and run the project on your local machine.
 
 1. Clone the repository
