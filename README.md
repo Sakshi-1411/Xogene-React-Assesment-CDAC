@@ -10,11 +10,15 @@ Follow these steps to set up and run the project on your local machine.
 Clone the project repository using the following command:
 
 git clone https://github.com/Sakshi-1411/Xogene-React-Assessment-CDAC.git
+
+
 2. Navigate to the project directory
 Change your current working directory to the project directory:
 
 cd Xogene-React-Assessment
 cd drup-app
+
+
 3. Install Dependencies
 Install the required dependencies using npm:
 
